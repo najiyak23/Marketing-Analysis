@@ -5,6 +5,14 @@ Insights and recommendations are provided in the following key areas:
 - Decreased Conversion Rates
 - Reduced Customer Engagement
 - Customer Feedback Analysis
+
+# Methodology:
+The project follows a structured approach:
+
+- **SQL**: Data cleaning and preparation to ensure data quality and consistency.
+- **Python**: Sentiment analysis of customer reviews to understand customer opinions and identify areas for improvement.
+- **Power BI**: Development of an interactive dashboard to visualize key metrics and insights.
+
   
 The SQL queries used to inspect and clean the data for this analysis can be found here. [[Click here]](./sql/)
 
