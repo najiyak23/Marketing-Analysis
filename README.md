@@ -7,7 +7,11 @@ Insights and recommendations are provided in the following key areas:
 - Customer Feedback Analysis
   
 [The SQL queries used to inspect and clean the data for this analysis can be found.](./sql/)
-An interactive Power BI dashboard used to report and explore marketing trends can be found
+
+[An interactive Power BI dashboard used to report and explore marketing trends can be found here](https://drive.google.com/file/d/1iDVVKUtj0s0sum7xW0pu2w3dTVZqOjlE/view?usp=drive_link)
+
+![Overview ](https://github.com/user-attachments/assets/ef284945-8f15-4655-aae5-f8390571182a)
+
 # Data Structure & Initial Checks
 The project utilizes data from various sources, including:
 - Customer Reviews: Text reviews of products.
