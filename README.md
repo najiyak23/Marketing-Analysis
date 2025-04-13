@@ -51,7 +51,7 @@ ShopEasy faces challenges with declining customer engagement and conversion rate
 - **Main insight 1**: Average customer ratings are around 3.7, below the target of 4.0 .
 - **Main insight 2**: Most reviews are positive, but addressing mixed and negative feedback is crucial .
 
-![Avg Rating by month2](https://github.com/user-attachments/assets/772ecdd5-fbc9-43f2-98ce-27ae0f2c7eca)
+![Avg Rating by month](https://github.com/user-attachments/assets/3b0eab75-5e69-4f73-8225-0ca4296cd7b3)
 
 
 # Recommendations:
