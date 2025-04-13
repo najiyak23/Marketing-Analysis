@@ -6,9 +6,9 @@ Insights and recommendations are provided in the following key areas:
 - Reduced Customer Engagement
 - Customer Feedback Analysis
   
-[The SQL queries used to inspect and clean the data for this analysis can be found.](./sql/)
+The SQL queries used to inspect and clean the data for this analysis can be found here.[link](./sql/)
 
-[An interactive Power BI dashboard used to report and explore marketing trends can be found here](https://drive.google.com/file/d/1iDVVKUtj0s0sum7xW0pu2w3dTVZqOjlE/view?usp=drive_link)
+An interactive Power BI dashboard used to report and explore marketing trends can be found[link] here(https://drive.google.com/file/d/1iDVVKUtj0s0sum7xW0pu2w3dTVZqOjlE/view?usp=drive_link)
 
 ![Overview ](https://github.com/user-attachments/assets/ef284945-8f15-4655-aae5-f8390571182a)
 
@@ -17,10 +17,15 @@ The project utilizes data from various sources, including:
 - Customer Reviews: Text reviews of products.
 - Social Media Comments: Customer interactions on social media platforms (views, clicks, likes).
 - Campaign Performance Metrics: Data related to marketing campaign performance, including website visitor behavior and conversions.
+  
+  ![Data Model2](https://github.com/user-attachments/assets/725b597f-be89-4b65-a07c-5da471129e17)
 
 # Executive Summary
 ### Overview of Findings
 ShopEasy faces challenges with declining customer engagement and conversion rates. While overall customer sentiment is generally positive, there's a need to address negative feedback. Key opportunities include optimizing marketing spend on high-performing products/content and improving customer feedback processes.
+
+![Conversion rate by month ](https://github.com/user-attachments/assets/9477f379-9bd2-4a94-bd5c-8e0ef5666d7e)  
+
 
 # Insights Deep Dive
 ### Decreased Conversion Rates:
