@@ -6,9 +6,9 @@ Insights and recommendations are provided in the following key areas:
 - Reduced Customer Engagement
 - Customer Feedback Analysis
   
-The SQL queries used to inspect and clean the data for this analysis can be found here.[link](./sql/)
+The SQL queries used to inspect and clean the data for this analysis can be found here. [[Click here]](./sql/)
 
-An interactive Power BI dashboard used to report and explore marketing trends can be found[link] here(https://drive.google.com/file/d/1iDVVKUtj0s0sum7xW0pu2w3dTVZqOjlE/view?usp=drive_link)
+An interactive Power BI dashboard used to report and explore marketing trends can be found here. [[Click here]](https://drive.google.com/file/d/1iDVVKUtj0s0sum7xW0pu2w3dTVZqOjlE/view?usp=drive_link)
 
 ![Overview ](https://github.com/user-attachments/assets/ef284945-8f15-4655-aae5-f8390571182a)
 
@@ -18,32 +18,39 @@ The project utilizes data from various sources, including:
 - Social Media Comments: Customer interactions on social media platforms (views, clicks, likes).
 - Campaign Performance Metrics: Data related to marketing campaign performance, including website visitor behavior and conversions.
   
+  ### Data Model
   ![Data Model2](https://github.com/user-attachments/assets/725b597f-be89-4b65-a07c-5da471129e17)
 
 # Executive Summary
 ### Overview of Findings
 ShopEasy faces challenges with declining customer engagement and conversion rates. While overall customer sentiment is generally positive, there's a need to address negative feedback. Key opportunities include optimizing marketing spend on high-performing products/content and improving customer feedback processes.
 
-![Conversion rate by month ](https://github.com/user-attachments/assets/9477f379-9bd2-4a94-bd5c-8e0ef5666d7e)  
+![Conversion rate by month ](https://github.com/user-attachments/assets/9477f379-9bd2-4a94-bd5c-8e0ef5666d7e) ![Engagement ](https://github.com/user-attachments/assets/4981c3a5-4a79-47ba-a4cc-e067b25a7ac0)
+ 
 
 
 # Insights Deep Dive
 ### Decreased Conversion Rates:
-- **Main insight 1**: Conversion rates vary by month, with peaks in January and July (presentation.ashx.pdf).
-- **Main insight 2**: May has the lowest conversion rate (4.3%), indicating a need for strategy adjustments (presentation.ashx.pdf).
-- **Main insight 3**: January has the highest conversion rate (18.5%), driven by products like Ski Boots (presentation.ashx.pdf).
-- **Main insight 4**: Kayaks, Ski Boots, and Baseball Gloves show high conversion rates (presentation.ashx.pdf).
-[Visualization of Conversion Rate by Month and/or Product from the Power BI dashboard. See image_e0e758.png]
+- **Main insight 1**: Conversion rates vary by month, with peaks in January and September .
+- **Main insight 2**: May has the lowest conversion rate (4%), indicating a need for strategy adjustments .
+- **Main insight 3**: January has the highest conversion rate (20%), driven by products like Ski Boots .
+- **Main insight 4**: Ski Boots, Kayaks,Surfboard and Volleyball show high conversion rates .
+  
+![Jan and sep](https://github.com/user-attachments/assets/2261558a-0be3-4f79-aeaf-50b770653485)
+
 
 ### Reduced Customer Engagement:
-- **Main insight 1**: Social media engagement is declining, with decreasing views (presentation.ashx.pdf).
-- **Main insight 2**: Click-through rate for engaged users is 15.37%, but overall clicks and likes are low compared to views (presentation.ashx.pdf).
-- **Main insight 3**: Blog content has the highest views, especially in April and July (presentation.ashx.pdf).
-[Visualization of Views, C
+- **Main insight 1**: Social media engagement is declining, with decreasing views .
+- **Main insight 2**: Click-through rate for engaged users is 15.37%, but overall clicks and likes are low compared to views .
+- **Main insight 3**: Blog content has the highest views, especially in March and May .
+
+![Clicks,views, by month line chart](https://github.com/user-attachments/assets/3bfca838-e8e2-4e36-ab9a-6f44738f62bd) ![Bar Chart of views by month](https://github.com/user-attachments/assets/ba176cc6-5947-406c-a550-a666ee1b39b4)
+
 
 ### Customer Feedback Analysis:
-- **Main insight 1**: Average customer ratings are around 3.7, below the target of 4.0 (presentation.ashx.pdf).
-- **Main insight 2**: Most reviews are positive, but addressing mixed and negative feedback is crucial (presentation.ashx.pdf).
+- **Main insight 1**: Average customer ratings are around 3.7, below the target of 4.0 .
+- **Main insight 2**: Most reviews are positive, but addressing mixed and negative feedback is crucial .
+- 
 [Visualization of Average Rating by Month and/or Product from the Power BI dashboard. See image_e0e758.png]
 
 # Recommendations:
