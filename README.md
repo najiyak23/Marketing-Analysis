@@ -40,7 +40,7 @@ ShopEasy faces challenges with declining customer engagement and conversion rate
 # Insights Deep Dive
 ### Decreased Conversion Rates:
 - **Main insight 1**: Conversion rates vary by month, with peaks in January and September .
-- **Main insight 2**: May has the lowest conversion rate (4%), indicating a need for strategy adjustments .
+- **Main insight 2**: May recorded the lowest conversion rate (4%), highlighting the need for refined marketing strategies during this period.
 - **Main insight 3**: January has the highest conversion rate (20%), driven by products like Ski Boots .
 - **Main insight 4**: Ski Boots, Kayaks,Surfboard and Volleyball show high conversion rates .
   
@@ -57,8 +57,8 @@ ShopEasy faces challenges with declining customer engagement and conversion rate
 
 ### Customer Feedback Analysis:
 - **Main insight 1**: Average customer ratings are around 3.7, below the target of 4.0 .
-- **Main insight 2**: Most reviews are positive, but addressing mixed and negative feedback is crucial .
-
+- **Main insight 2**: MoWhile the majority of customer reviews are positive, addressing mixed and negative feedback remains critical to enhancing overall customer satisfaction.
+  
 ![Avg Rating by month](https://github.com/user-attachments/assets/3b0eab75-5e69-4f73-8225-0ca4296cd7b3)
 
 
