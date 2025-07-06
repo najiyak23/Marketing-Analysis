@@ -16,7 +16,7 @@ The project follows a structured approach:
   
 The SQL queries used to inspect and clean the data for this analysis can be found here. [[Click here]](./sql/)
 
-An interactive Power BI dashboard used to report and explore marketing trends can be found here. [[Click here]](https://drive.google.com/file/d/1iDVVKUtj0s0sum7xW0pu2w3dTVZqOjlE/view?usp=drive_link)
+An interactive Power BI dashboard used to report and explore marketing trends can be found here. [[Click here]](https://app.powerbi.com/links/QtMgT83RPE?ctid=925114d6-5923-4107-a51f-7fa56dd3c243&pbi_source=linkShare&bookmarkGuid=b44accf3-e35a-41df-884a-e1e39dc24a38)
 
 ![Overview ](https://github.com/user-attachments/assets/ef284945-8f15-4655-aae5-f8390571182a)
 
